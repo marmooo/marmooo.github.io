@@ -1,0 +1,2 @@
+User-agent:*
+Sitemap:https://marmooo.github.io//sitemap.xml
