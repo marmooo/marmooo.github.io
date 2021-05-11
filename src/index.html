@@ -17,6 +17,8 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.4.1/css/bootstrap.min.css" />
     <style>
       .tile { width:84px; padding-bottom:1rem; line-height:1.1rem; }
+      html[data-theme="dark"] { filter: invert(1) hue-rotate(180deg); }
+      @-moz-document url-prefix() { html[data-theme="dark"] { background-color:black; } }
     </style>
   </head>
   <body>
@@ -24,6 +26,9 @@
       <nav class="navbar navbar-expand-sm navbar-dark bg-dark">
         <div class="container">
           <a class="navbar-brand" href="/">marmooo's GitHub Pages</a>
+          <div class="navbar-nav">
+            <button title="ダークモード切替" onclick="toggleDarkMode()" class="close">🌓</button>
+          </div>
         </div>
       </nav>
     </header>
@@ -360,5 +365,24 @@
       </div>
       <div class="text-muted">&copy; <a href="https://github.com/marmooo">marmooo</a></div>
     </footer>
+    <script>
+      function loadConfig() {
+        if (localStorage.getItem('darkMode') == 1) {
+          document.documentElement.dataset.theme = 'dark';
+        }
+      }
+
+      function toggleDarkMode() {
+        if (localStorage.getItem('darkMode') == 1) {
+          localStorage.setItem('darkMode', 0);
+          delete document.documentElement.dataset.theme;
+        } else {
+          localStorage.setItem('darkMode', 1);
+          document.documentElement.dataset.theme = 'dark';
+        }
+      }
+
+      loadConfig();
+    </script>
   </body>
 </html>
