@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: marmooo.github.io
+Token: ef5864a930a8f5e3cf12fda2b43c8cafbfa333b69b0bdb74e03a99941fc147e3
