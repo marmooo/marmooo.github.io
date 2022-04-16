@@ -1,3 +1,4 @@
+cp -r src/* docs
 drop-inline-css -r src -o docs
 minify docs/index.html -o docs/index.html
 minify docs/terms/index.html -o docs/terms/index.html
