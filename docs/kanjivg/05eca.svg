@@ -44,7 +44,7 @@ kvg:type CDATA #IMPLIED >
 			<path id="kvg:05eca-s3" kvg:type="㇒" d="M23.24,24.75c1,1,1.16,2.5,1.16,4.13c0,13.5-2.66,45.49-14.85,61.59"/>
 		</g>
 	</g>
-	<g id="kvg:05eca-g3" kvg:element="郎" kvg:phon="郎">
+	<g id="kvg:05eca-g3" kvg:element="郎" kvg:position="tarec" kvg:phon="郎">
 		<g id="kvg:05eca-g4" kvg:element="良" kvg:partial="true" kvg:position="left">
 			<path id="kvg:05eca-s4" kvg:type="㇑a" d="M43.07,28.51c0.9,0.9,1.05,1.86,1.05,3.35c0,0.95-0.08,3.11-0.08,5.44"/>
 			<g id="kvg:05eca-g5" kvg:element="艮" kvg:partial="true">
@@ -57,7 +57,7 @@ kvg:type CDATA #IMPLIED >
 		</g>
 		<g id="kvg:05eca-g6" kvg:element="⻏" kvg:variant="true" kvg:original="邑" kvg:position="right">
 			<path id="kvg:05eca-s10" kvg:type="㇇" d="M63.06,35.37c1.53,0.28,3.02,0.61,4.58,0.34c7.11-1.21,12.86-2.21,16.95-3.21c3.53-0.87,4.83,1.84,3.49,4.4C86.12,40.62,84,45,80.5,50.54"/>
-			<path id="kvg:05eca-s11" kvg:type="㇕va" d="M80.67,51.06C97.75,65.75,94,91.25,82.53,82.45"/>
+			<path id="kvg:05eca-s11" kvg:type="㇁" d="M80.67,51.06C97.75,65.75,94,91.25,82.53,82.45"/>
 			<path id="kvg:05eca-s12" kvg:type="㇑" d="M66.09,36.45c0.92,0.92,1.15,2.05,1.15,3.48c0,0.71-0.09,36.82-0.09,53.07c0,3.53-0.02,5.75-0.02,7.75"/>
 		</g>
 	</g>

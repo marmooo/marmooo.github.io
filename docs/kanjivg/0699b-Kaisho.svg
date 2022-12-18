@@ -39,12 +39,12 @@ kvg:type CDATA #IMPLIED >
 <g id="kvg:0699b-Kaisho" kvg:element="榛">
 	<g id="kvg:0699b-Kaisho-g1" kvg:element="木" kvg:position="left" kvg:radical="general">
 		<path id="kvg:0699b-Kaisho-s1" kvg:type="㇐" d="M14.03,39.47c0.35,0.24,2.39,0.41,3.31,0.31c3.94-0.41,15.12-2.21,21.45-3.41c0.92-0.17,2.15-0.24,2.73,0"/>
-		<path id="kvg:0699b-Kaisho-s2" kvg:type="㇑" d="M28.11,16.25c0.91,0.47,3.04,2,3.04,4.42c0,0.95-0.3,67.73-0.3,68.58c0,12-4.85,2-5.85,1"/>
+		<path id="kvg:0699b-Kaisho-s2" kvg:type="㇚" d="M28.11,16.25c0.91,0.47,3.04,2,3.04,4.42c0,0.95-0.3,67.73-0.3,68.58c0,12-4.85,2-5.85,1"/>
 		<path id="kvg:0699b-Kaisho-s3" kvg:type="㇒" d="M30.69,40.03c-5.1,15.04-9.44,21.4-17.33,34.56"/>
 		<path id="kvg:0699b-Kaisho-s4" kvg:type="㇔/㇏" d="M33.22,47.65c2.37,1.59,6.28,6.76,8.28,9.85"/>
 	</g>
 	<g id="kvg:0699b-Kaisho-g2" kvg:element="秦" kvg:position="right">
-		<g id="kvg:0699b-Kaisho-g3" kvg:position="top">
+		<g id="kvg:0699b-Kaisho-g3" kvg:element="𡗗" kvg:position="top">
 			<g id="kvg:0699b-Kaisho-g4" kvg:element="三">
 				<g id="kvg:0699b-Kaisho-g5" kvg:element="一" kvg:position="top">
 					<path id="kvg:0699b-Kaisho-s5" kvg:type="㇐" d="M49.2,25.48c0.76,0.33,2.16,0.37,2.93,0.33c10.09-0.4,20.17-2.53,30.04-2.94c1.27-0.05,2.04,0.16,2.67,0.33"/>
@@ -73,7 +73,7 @@ kvg:type CDATA #IMPLIED >
 			</g>
 			<g id="kvg:0699b-Kaisho-g14" kvg:element="木" kvg:position="bottom">
 				<path id="kvg:0699b-Kaisho-s11" kvg:type="㇐" d="M44.32,72.19c0.42,0.16,2.13,0.57,3.25,0.47c5.09-0.47,27.02-2.71,35.65-3.14c1.13-0.06,2.55,0.19,3.25,0.35"/>
-				<path id="kvg:0699b-Kaisho-s12" kvg:type="㇑" d="M64.99,61.65c0.46,0.22,0.74,1.01,0.83,1.46c0.09,0.45-0.09,26.08-0.09,28.89c0,10-4.35,2.12-5.47,1"/>
+				<path id="kvg:0699b-Kaisho-s12" kvg:type="㇚" d="M64.99,61.65c0.46,0.22,0.74,1.01,0.83,1.46c0.09,0.45-0.09,26.08-0.09,28.89c0,10-4.35,2.12-5.47,1"/>
 				<path id="kvg:0699b-Kaisho-s13" kvg:type="㇒" d="M65.48,71.59c-4.45,7.09-14.09,16.5-21.95,21.64"/>
 				<path id="kvg:0699b-Kaisho-s14" kvg:type="㇏" d="M68.93,77.23c5.57,1.27,15.82,9.27,19.09,13.53"/>
 			</g>

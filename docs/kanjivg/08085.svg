@@ -37,8 +37,8 @@ kvg:type CDATA #IMPLIED >
 <svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
 <g id="kvg:StrokePaths_08085" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
 <g id="kvg:08085" kvg:element="肅">
-	<g id="kvg:08085-g1" kvg:radical="tradit">
-		<g id="kvg:08085-g2" kvg:element="聿" kvg:part="1" kvg:variant="true">
+	<g id="kvg:08085-g1">
+		<g id="kvg:08085-g2" kvg:element="聿" kvg:part="1" kvg:variant="true" kvg:radical="tradit">
 			<g id="kvg:08085-g3" kvg:element="⺕" kvg:variant="true" kvg:original="彑">
 				<path id="kvg:08085-s1" kvg:type="㇕" d="M25.25,21c2,0.5,3.7,1.16,6,1c14-1,33.75-3.5,46-4.25c3.24-0.2,4.5,1.75,4,4.25c-1.31,6.54-2.25,10-2.5,16.5"/>
 				<path id="kvg:08085-s2" kvg:type="㇐" d="M16.5,32.25c2.25,0.25,4.01,0.73,6.5,0.5c21.75-2,47.25-4.5,64.5-5.25c2.76-0.12,5,0.5,6.25,0.75"/>
@@ -60,8 +60,8 @@ kvg:type CDATA #IMPLIED >
 		<path id="kvg:08085-s10" kvg:type="㇐" d="M27.06,72.13C36,71,75.57,66.86,82,66.86"/>
 	</g>
 	<path id="kvg:08085-s11" kvg:type="㇕" d="M26.81,82.12C32.5,81,34.5,80,38.42,79.17c3.16-0.67,3.8,0.96,3.8,1.93s-0.58,14.83-0.58,15.79"/>
-	<path id="kvg:08085-s12" kvg:type="㇑" d="M64.05,78.17c0.95,0.08,1.58,0.36,2.7,0.26c4.89-0.42,12.26-1.08,15.59-1.21"/>
-	<path id="kvg:08085-s13" kvg:type="㇐" d="M68.86,78.97c0,4.92-0.02,13.56-0.02,16.74"/>
+	<path id="kvg:08085-s12" kvg:type="㇐" d="M64.05,78.17c0.95,0.08,1.58,0.36,2.7,0.26c4.89-0.42,12.26-1.08,15.59-1.21"/>
+	<path id="kvg:08085-s13" kvg:type="㇑" d="M68.86,78.97c0,4.92-0.02,13.56-0.02,16.74"/>
 </g>
 </g>
 <g id="kvg:StrokeNumbers_08085" style="font-size:8;fill:#808080">

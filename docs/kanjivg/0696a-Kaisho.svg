@@ -39,11 +39,11 @@ kvg:type CDATA #IMPLIED >
 <g id="kvg:0696a-Kaisho" kvg:element="楪">
 	<g id="kvg:0696a-Kaisho-g1" kvg:element="木" kvg:position="left" kvg:radical="general">
 		<path id="kvg:0696a-Kaisho-s1" kvg:type="㇐" d="M10.78,37.72c0.35,0.24,2.39,0.41,3.31,0.31c3.94-0.41,15.62-1.71,21.95-2.91c0.92-0.17,2.15-0.24,2.73,0"/>
-		<path id="kvg:0696a-Kaisho-s2" kvg:type="㇑" d="M25.36,15c0.91,0.47,2.04,2.25,2.04,4.92c0,0.95-0.3,67.73-0.3,68.58c0,13-5.47,2.62-6.6,1.5"/>
+		<path id="kvg:0696a-Kaisho-s2" kvg:type="㇚" d="M25.36,15c0.91,0.47,2.04,2.25,2.04,4.92c0,0.95-0.3,67.73-0.3,68.58c0,13-5.47,2.62-6.6,1.5"/>
 		<path id="kvg:0696a-Kaisho-s3" kvg:type="㇒" d="M26.94,39.28c-5.1,15.04-7.94,21.4-15.83,34.56"/>
 		<path id="kvg:0696a-Kaisho-s4" kvg:type="㇔/㇏" d="M29.97,46.4c2.52,1.76,6.66,7.45,8.78,10.85"/>
 	</g>
-	<g id="kvg:0696a-Kaisho-g2" kvg:position="right">
+	<g id="kvg:0696a-Kaisho-g2" kvg:element="枼" kvg:position="right">
 		<g id="kvg:0696a-Kaisho-g3" kvg:element="世" kvg:position="top">
 			<g id="kvg:0696a-Kaisho-g4" kvg:element="廿">
 				<g id="kvg:0696a-Kaisho-g5" kvg:element="十">
@@ -59,7 +59,7 @@ kvg:type CDATA #IMPLIED >
 		</g>
 		<g id="kvg:0696a-Kaisho-g7" kvg:element="木" kvg:position="bottom">
 			<path id="kvg:0696a-Kaisho-s10" kvg:type="㇐" d="M44.99,68.11c1.36,0.44,2.91,0.58,4.47,0.44c7.96-0.71,26.08-2.72,38.12-3.55c1.55-0.11,2.53,0.07,4.08,0.38"/>
-			<path id="kvg:0696a-Kaisho-s11" kvg:type="㇑" d="M66.52,55.76c1.05,0.41,1.89,2.33,1.89,3.18c0,8.65-0.21,21.56-0.21,31.31c0,8.25-3.82,3.38-4.95,2.25"/>
+			<path id="kvg:0696a-Kaisho-s11" kvg:type="㇚" d="M66.52,55.76c1.05,0.41,1.89,2.33,1.89,3.18c0,8.65-0.21,21.56-0.21,31.31c0,8.25-3.82,3.38-4.95,2.25"/>
 			<path id="kvg:0696a-Kaisho-s12" kvg:type="㇒" d="M66.1,67.2c-4.24,7.62-15.6,19.27-24.41,23.59"/>
 			<path id="kvg:0696a-Kaisho-s13" kvg:type="㇏" d="M68.68,67.04c3.3,3.08,18.82,18.56,22.4,21.6c1.22,1.03,2.26,1.47,3.47,1.76"/>
 		</g>

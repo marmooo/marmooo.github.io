@@ -54,12 +54,12 @@ kvg:type CDATA #IMPLIED >
 		</g>
 		<g id="kvg:096dc-Kaisho-g6" kvg:element="木">
 			<path id="kvg:096dc-Kaisho-s7" kvg:type="㇐" d="M13.62,62.6c0.37,0.21,1.36,0.55,2.35,0.62c2.72,0.21,25.6-2.61,32.41-3.64c0.99-0.15,1.24-0.21,1.86,0"/>
-			<path id="kvg:096dc-Kaisho-s8" kvg:type="㇑" d="M33.33,52.91c0.37,0.41,0.58,1.86,0.66,2.69c0.07,0.83-0.07,30.72-0.07,35.9c0,11.25-4.54,4.12-5.91,2.75"/>
+			<path id="kvg:096dc-Kaisho-s8" kvg:type="㇚" d="M33.33,52.91c0.37,0.41,0.58,1.86,0.66,2.69c0.07,0.83-0.07,30.72-0.07,35.9c0,11.25-4.54,4.12-5.91,2.75"/>
 			<path id="kvg:096dc-Kaisho-s9" kvg:type="㇒" d="M26.43,71.47c-1.86,4.27-4.97,9.54-9.18,13.03"/>
 			<path id="kvg:096dc-Kaisho-s10" kvg:type="㇏" d="M40,69c3.77,2.68,6.97,8.05,9,11.5"/>
 		</g>
 	</g>
-	<g id="kvg:096dc-Kaisho-g7" kvg:element="隹" kvg:position="right" kvg:radical="tradit">
+	<g id="kvg:096dc-Kaisho-g7" kvg:element="隹" kvg:position="right" kvg:radical="general">
 		<g id="kvg:096dc-Kaisho-g8" kvg:element="亻" kvg:variant="true" kvg:original="人">
 			<path id="kvg:096dc-Kaisho-s11" kvg:type="㇒" d="M63.14,15.5c0.14,1.69-0.04,3.91-0.48,5.36c-2.83,9.24-6.42,17.07-12.9,28.32"/>
 			<path id="kvg:096dc-Kaisho-s12" kvg:type="㇑" d="M58.69,39.15c0.63,0.88,1.11,2.8,1.15,4.16c0.37,12.12-0.51,46.13-0.2,52.44"/>

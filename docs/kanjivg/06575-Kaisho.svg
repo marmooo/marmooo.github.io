@@ -37,7 +37,7 @@ kvg:type CDATA #IMPLIED >
 <svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
 <g id="kvg:StrokePaths_06575-Kaisho" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
 <g id="kvg:06575-Kaisho" kvg:element="敵">
-	<g id="kvg:06575-Kaisho-g1" kvg:position="left">
+	<g id="kvg:06575-Kaisho-g1" kvg:element="啇" kvg:position="left">
 		<g id="kvg:06575-Kaisho-g2" kvg:element="亠">
 			<path id="kvg:06575-Kaisho-s1" kvg:type="㇑a" d="M27.25,13.75c2.17,1.5,5.15,4,6.5,7.5"/>
 			<path id="kvg:06575-Kaisho-s2" kvg:type="㇐" d="M11,28.7c1.16,0.33,2.53,0.38,3.68,0.33c6.57-0.28,24.07-4.03,33.99-4.27c1.94-0.05,3.1,0.16,4.07,0.32"/>
@@ -60,7 +60,7 @@ kvg:type CDATA #IMPLIED >
 			</g>
 		</g>
 	</g>
-	<g id="kvg:06575-Kaisho-g7" kvg:element="攴" kvg:variant="true" kvg:original="攵" kvg:position="right" kvg:radical="general">
+	<g id="kvg:06575-Kaisho-g7" kvg:element="攵" kvg:variant="true" kvg:original="攴" kvg:position="right" kvg:radical="general">
 		<g id="kvg:06575-Kaisho-g8" kvg:position="top">
 			<path id="kvg:06575-Kaisho-s12" kvg:type="㇒" d="M68.56,14.64c0.03,0.84,0.2,2.21-0.06,3.37c-1.68,7.4-5.45,22-11.25,32.24"/>
 			<path id="kvg:06575-Kaisho-s13" kvg:type="㇐" d="M65.5,39.76c0.48,0.37,1.36,0.41,1.84,0.37c4.99-0.42,13.93-3.55,21.56-4.23c0.86-0.08,1.38-0.02,1.6,0.07"/>

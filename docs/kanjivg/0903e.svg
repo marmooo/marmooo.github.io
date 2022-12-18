@@ -37,7 +37,7 @@ kvg:type CDATA #IMPLIED >
 <svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
 <g id="kvg:StrokePaths_0903e" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
 <g id="kvg:0903e" kvg:element="逾">
-	<g id="kvg:0903e-g1" kvg:element="兪">
+	<g id="kvg:0903e-g1" kvg:element="兪" kvg:position="nyoc">
 		<g id="kvg:0903e-g2" kvg:element="入" kvg:position="top">
 			<path id="kvg:0903e-s1" kvg:type="㇒" d="M 61.0725,15.132292 C 60.574791,16.41 60.227083,17.125833 59.332916,18.085833 54.999791,23.358125 45.25,34.113542 33.5,40.77"/>
 			<path id="kvg:0903e-s2" kvg:type="㇏" d="M 55.28125,7.3335417 c 1.687292,1.191042 4.778153,4.2074703 5.710104,5.5848963 C 66.73014,21.400379 78.640625,32.312917 88.96,37.05 c 1.69,1.21 3.85,1.73 5.54,2.08"/>
@@ -47,7 +47,7 @@ kvg:type CDATA #IMPLIED >
 				<path id="kvg:0903e-s3" kvg:type="㇐" d="M48.03,36.43c0.7,0.23,1.99,0.25,2.69,0.23c4.72-0.13,17.24-2.68,21.64-2.23c1.16,0.12,1.87,0.11,2.46,0.22"/>
 			</g>
 			<g id="kvg:0903e-g5" kvg:element="月" kvg:variant="true">
-				<path id="kvg:0903e-s4" kvg:type="㇒" d="M40.02,45.14c0.55,0.81,0.93,1.62,1.11,2.43c0.18,0.81,0.26,32.45,0.18,34.27"/>
+				<path id="kvg:0903e-s4" kvg:type="㇑" d="M40.02,45.14c0.55,0.81,0.93,1.62,1.11,2.43c0.18,0.81,0.26,32.45,0.18,34.27"/>
 				<path id="kvg:0903e-s5" kvg:type="㇆" d="M42.24,46.71c1.24-0.12,12.59-1.57,13.51-1.7c1.65-0.23,2.27,1.5,2.06,2.2c-0.2,0.67-0.31,21.45-0.31,30.81c0,8.29-3.67,2.08-4.7,1.04"/>
 				<path id="kvg:0903e-s6" kvg:type="㇔" d="M46.6,52.96c2.13,0.83,5.51,3.43,6.04,4.73"/>
 				<path id="kvg:0903e-s7" kvg:type="㇔" d="M46.68,62.85c2.01,0.98,5.2,4.05,5.7,5.58"/>

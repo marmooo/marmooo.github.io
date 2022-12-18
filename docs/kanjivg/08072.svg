@@ -37,7 +37,7 @@ kvg:type CDATA #IMPLIED >
 <svg xmlns="http://www.w3.org/2000/svg" width="109" height="109" viewBox="0 0 109 109">
 <g id="kvg:StrokePaths_08072" style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;">
 <g id="kvg:08072" kvg:element="聲">
-	<g id="kvg:08072-g1" kvg:position="top">
+	<g id="kvg:08072-g1" kvg:element="殸" kvg:position="top">
 		<g id="kvg:08072-g2" kvg:element="声" kvg:position="left">
 			<g id="kvg:08072-g3" kvg:element="士" kvg:position="top">
 				<path id="kvg:08072-s1" kvg:type="㇐" d="M16.58,19.08c0.75,0.27,3.31,1.14,4.07,1.04c8.27-1.04,9.25-1.38,23.6-2.71c1.25-0.12,3.54,0.22,4.17,0.33"/>
@@ -64,7 +64,7 @@ kvg:type CDATA #IMPLIED >
 			</g>
 		</g>
 	</g>
-	<g id="kvg:08072-g9" kvg:element="耳" kvg:position="bottom" kvg:radical="tradit">
+	<g id="kvg:08072-g9" kvg:element="耳" kvg:position="bottom" kvg:radical="general">
 		<path id="kvg:08072-s12" kvg:type="㇐" d="M24.42,62.75c1.03,0.33,3.98,0.96,5,0.83c12.35-1.5,26.03-3.19,46.66-4.18c1.71-0.08,3.49,0.52,4.34,0.68"/>
 		<path id="kvg:08072-s13" kvg:type="㇑a" d="M36.21,65.19c0.81,0.79,1.24,2.83,1.24,4.94s-0.21,12.36-0.21,19.95"/>
 		<path id="kvg:08072-s14" kvg:type="㇐a" d="M38.08,71.58c4.93,0,23.73-2.5,32.17-2.5"/>
