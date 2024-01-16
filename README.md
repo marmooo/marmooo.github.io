@@ -7,6 +7,9 @@
 1. install [gitn](https://github.com/marmooo/gitn)
 2. `gitn clone vendor repos.lst`
 3. `bash install-fonts.sh`
+4. `deno run --allow-read --allow-write build-emoji.js`
+5. `deno run --allow-read --allow-write build-kanji.js`
+6. `bash build-icon.sh`
 
 ## Build
 
