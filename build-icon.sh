@@ -19,3 +19,5 @@ rsync -a --delete vendor/iconoir/icons/ docs/svg/iconoir/
 rsync -a --delete vendor/majesticons/line/ docs/svg/majesticons/line/
 rsync -a --delete vendor/majesticons/solid/ docs/svg/majesticons/solid/
 rsync -a --delete-excluded --exclude="*.json" vendor/lucide/icons/ docs/svg/lucide/
+# kanjis
+deno --allow-read --allow-write build-kanji.js
