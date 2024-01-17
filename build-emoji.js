@@ -25,7 +25,7 @@ function parseTTF(inFile, outDir, options = {}) {
 
 function notoEmojiTwotone() {
   console.log("Noto Emoji Twotone");
-  parseTTF("vendor/NotoEmoji-Regular.ttf", "docs/svg/noto-emoji-twotone");
+  parseTTF("vendor/NotoEmoji[wght].ttf", "docs/svg/noto-emoji-twotone");
 }
 
 function androidEmoji() {
