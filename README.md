@@ -4,10 +4,9 @@
 
 ## Installation
 
-1. install [gitn](https://github.com/marmooo/gitn)
-2. `gitn clone vendor repos.lst`
-3. `bash install-fonts.sh`
-4. `bash build-icon.sh`
+1. `gitn clone vendor repos.lst` (see [gitn](https://github.com/marmooo/gitn))
+2. `bash install-fonts.sh`
+3. `bash build-icon.sh`
 
 ## Build
 
