@@ -55,9 +55,6 @@ MIT
 - `docs/svg/RemixIcon/` is copied from
   [Remix Icon](https://github.com/Remix-Design/RemixIcon) licensed under the
   [Apache-2.0](https://github.com/Remix-Design/RemixIcon/blob/master/License)
-- `docs/svg/Solar-icon-set/` is copied from
-  [Solar Icon Set](https://github.com/480-Design/Solar-icon-set) licensed under
-  the [CC-BY-4.0](https://www.figma.com/community/file/1166831539721848736)
 - `docs/svg/iconoir/` is copied from
   [Iconoir](https://github.com/iconoir-icons/iconoir) licensed under the
   [MIT](https://github.com/iconoir-icons/iconoir/blob/main/LICENSE)
@@ -67,9 +64,9 @@ MIT
 - `docs/svg/lucide/` is copied from
   [Lucide](https://github.com/lucide-icons/lucide) licensed under the
   [ISC](https://github.com/lucide-icons/lucide/blob/main/LICENSE)
-- `docs/svg/line-md/` is copied from
-  [Material Line Icons](https://github.com/cyberalien/line-md) licensed under
-  the [MIT](https://github.com/cyberalien/line-md/blob/master/license.txt)
+- [Streamline Core](https://github.com/webalys-hq/streamline-vectors) is
+  licensed under the
+  [CC-BY-4.0](https://github.com/webalys-hq/streamline-vectors/tree/main/core)
 
 ### Emojis
 
