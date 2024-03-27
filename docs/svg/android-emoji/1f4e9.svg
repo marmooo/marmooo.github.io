@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg"
-    viewBox="0 0 2600 2850">
+    viewBox="0 0 2600 2600">
   <!--
 Digitized data copyright © 2011, Google Corporation.
 Android is a trademark of Google and may be registered in certain jurisdictions.
 Licensed under the Apache License, Version 2.0
 http://www.apache.org/licenses/LICENSE-2.0
   -->
-<path d="M1408 572L1682 572 1248 1164 813 572 1084 572 1084 19 1408 19 1408 572ZM1248 1364L1580 908 2154 908 2154 1160 1251 1609 346 1160 346 908 914 908 1248 1364ZM346 2249L346 1304 1251 1754 2154 1304 2154 2249 346 2249Z"/>
+<path d="M1408 372L1682 372 1248 964 813 372 1084 372 1084-181 1408-181 1408 372ZM1248 1164L1580 708 2154 708 2154 960 1251 1409 346 960 346 708 914 708 1248 1164ZM346 2049L346 1104 1251 1554 2154 1104 2154 2049 346 2049Z"/>
 </svg>
