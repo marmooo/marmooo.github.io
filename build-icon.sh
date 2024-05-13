@@ -4,7 +4,7 @@ rsync -a --delete vendor/twemoji/assets/svg/ docs/svg/twemoji/
 rsync -a --delete vendor/blobmoji/svg/ docs/svg/blobmoji/
 rsync -a --delete vendor/emojitwo/svg/ docs/svg/emojitwo/
 rsync -a --delete vendor/emojitwo/svg_bw/ docs/svg/emojitwo-twotone/
-deno run --allow-read --allow-write build-emoji.js
+deno run --allow-read --allow-write --allow-env build-emoji.js
 # icons
 rsync -a --delete vendor/material-symbols/svg/400/outlined/ docs/svg/material-symbols/
 rsync -a --delete vendor/material-design-icons/svg/filled/ docs/svg/material-design-icons/filled/
@@ -20,4 +20,4 @@ rsync -a --delete vendor/majesticons/solid/ docs/svg/majesticons/solid/
 rsync -a --delete-excluded --exclude="*.json" vendor/lucide/icons/ docs/svg/lucide/
 rsync -a --delete vendor/streamline-vectors/core/line/ docs/svg/streamline-vectors/core/line/
 # kanjis
-deno --allow-read --allow-write build-kanji.js
+deno run --allow-read --allow-write --allow-env build-kanji.js
