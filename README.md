@@ -46,9 +46,6 @@ MIT
 - `docs/svg/phosphor-icons/` is copied from
   [Phosphor Icons](https://github.com/phosphor-icons/core) licensed under the
   [MIT](https://github.com/phosphor-icons/core/blob/main/LICENSE)
-- `docs/svg/tabler-icons/` is copied from
-  [Tabler Icons](https://github.com/tabler/tabler-icons) licensed under the
-  [MIT](https://github.com/tabler/tabler-icons/blob/master/LICENSE)
 - `docs/svg/bootstrap-icons/` is copied from
   [Bootstrap Icons](https://github.com/twbs/icons) licensed under the
   [MIT](https://github.com/twbs/icons/blob/main/LICENSE.md)
