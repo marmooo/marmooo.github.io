@@ -6,7 +6,6 @@ function parseTTF(inFile, outDir, options = {}) {
   Deno.mkdirSync(outDir, { recursive: true });
   const uint8array = Deno.readFileSync(inFile);
   const font = parse(uint8array.buffer);
-  console.log(font.ascender, font.descender);
   const glyphs = filterGlyphs(font, options);
   for (const glyph of glyphs) {
     if (!glyph.unicode) continue;
