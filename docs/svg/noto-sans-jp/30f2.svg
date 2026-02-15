@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg"
+<svg xmlns="http://www.w3.org/2000/svg" name="gid1379" data-unicode="ヲ"
     viewBox="0 0 1000 1000">
   <!--
 © 2014-2021 Adobe (http://www.adobe.com/).
@@ -6,5 +6,5 @@ Noto is a trademark of Google Inc.
 This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software.
 http://scripts.sil.org/OFL
   -->
-<path d="M162 132L162 219C199 217 233 215 265 215 333 215 716 215 777 215 769 272 757 337 740 398L277 398C246 398 215 396 188 393L188 475C218 473 246 471 280 471L716 471C703 503 689 532 673 556 582 690 441 781 268 822L333 892C530 826 656 728 750 584 808 494 845 334 867 209 870 194 876 182 880 173L816 133C799 137 777 139 755 139 705 139 332 139 265 139 224 139 183 134 162 132Z"/>
+<path d="M162 162L162 249C199 247 233 245 265 245 333 245 716 245 777 245 769 302 757 367 740 428L277 428C246 428 215 426 188 423L188 505C218 503 246 501 280 501L716 501C703 533 689 562 673 586 582 720 441 811 268 852L333 922C530 856 656 758 750 614 808 524 845 364 867 239 870 224 876 212 880 203L816 163C799 167 777 169 755 169 705 169 332 169 265 169 224 169 183 164 162 162Z"/>
 </svg>

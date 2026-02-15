@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg"
+<svg xmlns="http://www.w3.org/2000/svg" name="gid12733" data-unicode="⾞"
     viewBox="0 0 1000 1000">
   <!--
 © 2014-2021 Adobe (http://www.adobe.com/).
@@ -6,5 +6,5 @@ Noto is a trademark of Google Inc.
 This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software.
 http://scripts.sil.org/OFL
   -->
-<path d="M158 244L158 634 459 634 459 715 53 715 53 784 459 784 459 933 536 933 536 784 951 784 951 715 536 715 536 634 846 634 846 244 536 244 536 170 917 170 917 101 536 101 536 11 459 11 459 101 83 101 83 170 459 170 459 244ZM230 468L459 468 459 571 230 571ZM536 468L771 468 771 571 536 571ZM230 307L459 307 459 409 230 409ZM536 307L771 307 771 409 536 409Z"/>
+<path d="M158 274L158 664 459 664 459 745 53 745 53 814 459 814 459 963 536 963 536 814 951 814 951 745 536 745 536 664 846 664 846 274 536 274 536 200 917 200 917 131 536 131 536 41 459 41 459 131 83 131 83 200 459 200 459 274ZM230 498L459 498 459 601 230 601ZM536 498L771 498 771 601 536 601ZM230 337L459 337 459 439 230 439ZM536 337L771 337 771 439 536 439Z"/>
 </svg>
