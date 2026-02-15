@@ -32,7 +32,7 @@ function parseTTF(inFile, outDir, options = {}) {
 
 function notoSerifJP(text) {
   console.log("Noto Serif JP");
-  const options = { text, glyphHeight: 1000, translateY: 850 };
+  const options = { text };
   parseTTF(
     "vendor/NotoSerifJP-Regular.otf",
     "docs/svg/noto-serif-jp",
@@ -42,7 +42,7 @@ function notoSerifJP(text) {
 
 function notoSansJP(text) {
   console.log("Noto Sans JP");
-  const options = { text, glyphHeight: 1000, translateY: 850 };
+  const options = { text };
   parseTTF(
     "vendor/NotoSansJP-Regular.otf",
     "docs/svg/noto-sans-jp",
